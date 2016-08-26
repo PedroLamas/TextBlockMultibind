@@ -25,6 +25,9 @@
     
     
     <!-- Add your application specific runtime directives here. -->
+    <Type Name="Windows.UI.Xaml.Controls.TextBlock">
+      <Property Name="TextProperty" Dynamic="Required" />
+    </Type>
 
 
   </Application>
